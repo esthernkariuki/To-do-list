@@ -1,5 +1,5 @@
 
-let tasks = ["Ilove JavaScript", "A to-do list"]; 
+let tasks = ["Ilove JavaScript", "A to-do list","my name is esther","Javascript is a programming language"]; 
 const todoForm = document.getElementById('todo-form');
 const todoInput = document.getElementById('todo-input');
 const todoList = document.getElementById('todo-list');
